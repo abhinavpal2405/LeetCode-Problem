@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
