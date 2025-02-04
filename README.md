@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
