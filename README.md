@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0100-same-tree) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
