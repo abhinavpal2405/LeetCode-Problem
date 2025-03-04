@@ -93,5 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
