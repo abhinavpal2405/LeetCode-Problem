@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
