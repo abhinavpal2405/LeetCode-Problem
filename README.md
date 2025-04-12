@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
+| [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
