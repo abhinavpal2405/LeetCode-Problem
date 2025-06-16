@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
+| [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
