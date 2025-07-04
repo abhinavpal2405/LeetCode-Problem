@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
