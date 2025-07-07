@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0461-hamming-distance) |
