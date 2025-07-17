@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
