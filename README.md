@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
