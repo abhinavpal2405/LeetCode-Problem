@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
