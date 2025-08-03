@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
