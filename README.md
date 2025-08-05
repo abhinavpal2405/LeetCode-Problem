@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -260,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
