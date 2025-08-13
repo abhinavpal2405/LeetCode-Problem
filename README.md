@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0326-power-of-three) |
 ## Queue
 |  |
 | ------- |
