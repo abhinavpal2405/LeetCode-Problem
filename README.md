@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3379-score-of-a-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
