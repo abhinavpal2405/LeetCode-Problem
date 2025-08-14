@@ -1,7 +1,7 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        String s = "";
-        for (int i = 0; i < num.length(); i++) {
+        // String s = "";
+        // for (int i = 0; i < num.length(); i++) {
             // if (num.contains("999") || num.contains("888") || num.contains("777") ||
             //     num.contains("666") || num.contains("555") || num.contains("444") ||
             //     num.contains("333") || num.contains("222") || num.contains("111") ||
@@ -17,7 +17,7 @@ class Solution {
                 if (num.contains("111")) return "111";
                 if (num.contains("000")) return "000";
             
-        }
-        return s;
+     //   }}
+        return "";
     }
 }
