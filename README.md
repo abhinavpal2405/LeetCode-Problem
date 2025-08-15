@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
