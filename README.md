@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
@@ -296,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
