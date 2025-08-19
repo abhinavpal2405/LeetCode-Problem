@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
