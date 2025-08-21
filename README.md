@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
