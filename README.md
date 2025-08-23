@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1656-count-good-triplets) |
+| [1791-richest-customer-wealth](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2058-concatenation-of-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
+| [1791-richest-customer-wealth](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
