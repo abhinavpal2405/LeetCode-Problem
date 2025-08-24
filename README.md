@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1656-count-good-triplets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
