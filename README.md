@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0782-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
