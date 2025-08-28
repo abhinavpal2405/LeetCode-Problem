@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3429-special-array-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3429-special-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
