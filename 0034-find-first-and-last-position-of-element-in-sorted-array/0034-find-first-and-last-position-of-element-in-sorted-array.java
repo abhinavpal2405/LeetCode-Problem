@@ -22,7 +22,7 @@ class Solution {
                 break;
                 }
             }
-            if(count>0){
+            if(count==2){
                 return arr;
             }
             return result;
