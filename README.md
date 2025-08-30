@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
+| [2481-strictly-palindromic-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2812-find-the-maximum-achievable-number) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
