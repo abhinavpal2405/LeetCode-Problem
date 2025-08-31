@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
+| [1505-create-target-array-in-the-given-order](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
+| [1505-create-target-array-in-the-given-order](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2058-concatenation-of-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
