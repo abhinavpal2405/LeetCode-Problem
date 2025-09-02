@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
 | ------- |
