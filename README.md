@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
+| [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1448-maximum-69-number) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
