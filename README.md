@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
