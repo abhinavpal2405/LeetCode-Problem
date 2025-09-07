@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
+| [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1505-create-target-array-in-the-given-order) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
 | [1970-sorting-the-sentence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1970-sorting-the-sentence) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
 |  |
