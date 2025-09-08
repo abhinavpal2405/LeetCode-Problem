@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2058-concatenation-of-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
 | [1970-sorting-the-sentence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1970-sorting-the-sentence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [1448-maximum-69-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Matrix
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Memoization
 |  |
 | ------- |
