@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-number-of-arithmetic-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
+| [2442-number-of-arithmetic-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2442-number-of-arithmetic-triplets) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2442-number-of-arithmetic-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
