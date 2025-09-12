@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3194-find-words-containing-character](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3194-find-words-containing-character](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
