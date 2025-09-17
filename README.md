@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2442-number-of-arithmetic-triplets) |
+| [2714-left-and-right-sum-differences](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2571-find-the-pivot-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/2714-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
 | ------- |
