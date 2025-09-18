@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0561-array-partition) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
