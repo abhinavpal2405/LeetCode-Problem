@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3429-special-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3790-fruits-into-baskets-ii) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Dynamic Programming
 |  |
 | ------- |
