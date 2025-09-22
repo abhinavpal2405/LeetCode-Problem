@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1656-count-good-triplets) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1848-sum-of-unique-elements) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1619-path-crossing](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1619-path-crossing) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1970-sorting-the-sentence) |
