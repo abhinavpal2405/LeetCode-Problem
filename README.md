@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0343-integer-break](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1236-n-th-tribonacci-number) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
