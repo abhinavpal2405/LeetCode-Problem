@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0169-majority-element) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
