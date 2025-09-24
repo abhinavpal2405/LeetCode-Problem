@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0343-integer-break) |
 | [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0461-hamming-distance) |
