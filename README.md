@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0739-daily-temperatures) |
+| [0830-largest-triangle-area](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
+| [0830-largest-triangle-area](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0595-big-countries) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
