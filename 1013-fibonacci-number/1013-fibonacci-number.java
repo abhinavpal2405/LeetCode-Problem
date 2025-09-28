@@ -1,17 +1,11 @@
 class Solution {
     public int fib(int n) {
-        if(n==0){
-            return 0;
-        }else if(n==1){
-            return 1;
-        }
-        int frst=0;
-        int sec=1;
-        for(int i =1;i<=n;i++){
-            int thrd=frst+sec;
-            frst=sec;
-            sec=thrd;
-        }
-        return frst;
+     if(n==0){
+        return 0;
+     }
+     if(n==1){
+        return 1;
+     }
+     return fib(n-1)+fib(n-2);
     }
 }
