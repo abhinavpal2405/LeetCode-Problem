@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0027-remove-element) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0027-remove-element) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1448-maximum-69-number) |
