@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0412-fizz-buzz) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0575-distribute-candies) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1610-xor-operation-in-an-array) |
