@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1137-height-checker) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1503-reducing-dishes](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1503-reducing-dishes) |
 | [1970-sorting-the-sentence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1970-sorting-the-sentence) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1619-path-crossing](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1619-path-crossing) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-path-crossing](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/abhinavpal2405/LeetCode-Problem/tree/master/1635-number-of-good-pairs) |
